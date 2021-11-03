@@ -1,6 +1,6 @@
-
-![WiqN](https://user-images.githubusercontent.com/72188268/140018285-e7b7fda3-f8ea-45da-99e1-12534188de5e.gif).
-
+<p align="center">
+<img src="style/WiqN.gif" width="200px">
+</p>
 <h1 align="center">Hi 👋, I'm Mehran Firdous</h1>
 <h3 align="center">A passionate Software Student|Dev.</h3>
 
