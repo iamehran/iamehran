@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/iamehran/iamehran/main/https://i.gifer.com/xw.gif" width="200px">
+<img src="https://raw.githubusercontent.com/iamehran/iamehran/main/![xw](https://user-images.githubusercontent.com/72188268/140016368-8c32da0a-0aa3-40e6-bb7f-70583b5092d0.gif)" width="200px">
 </p>
 <h1 align="center">Hi 👋, I'm Mehran Firdous</h1>
 <h3 align="center">A passionate Software Student|Dev.</h3>
