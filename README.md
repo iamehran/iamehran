@@ -1,5 +1,7 @@
 
-![xw](https://user-images.githubusercontent.com/72188268/140016368-8c32da0a-0aa3-40e6-bb7f-70583b5092d0.gif) ![xw](https://user-images.githubusercontent.com/72188268/140016368-8c32da0a-0aa3-40e6-bb7f-70583b5092d0.gif)
+![xw](https://user-images.githubusercontent.com/72188268/140016368-8c32da0a-0aa3-40e6-bb7f-70583b5092d0.gif) ![5GJg](https://user-images.githubusercontent.com/72188268/140016897-7f076bf3-06c7-4cb8-be3f-11da12e8ac5b.gif)
+ ![5GJg](https://user-images.githubusercontent.com/72188268/140016897-7f076bf3-06c7-4cb8-be3f-11da12e8ac5b.gif)
+ ![xw](https://user-images.githubusercontent.com/72188268/140016368-8c32da0a-0aa3-40e6-bb7f-70583b5092d0.gif)
 
 <h1 align="center">Hi 👋, I'm Mehran Firdous</h1>
 <h3 align="center">A passionate Software Student|Dev.</h3>
