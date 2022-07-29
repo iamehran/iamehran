@@ -1,5 +1,5 @@
 <p align="center">
-<img src="style/WiqN.gif" width="300px">
+<img src="style/programming.gif" width="300px">
 </p>
 <h1 align="center">Hi 👋, I'm Mehran Firdous</h1>
 <h3 align="center">A passionate Software Student | Dev. Curious about working on different Projects and Ideas</h3>
