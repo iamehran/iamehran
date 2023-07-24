@@ -1,14 +1,12 @@
 <p align="left"><a href="https://iamehran.github.io"><img width="80%" alt="Hello, I'm Mehran. I do open source!" src="./style/gh-cover.gif" /></a>
 </p>
-   
- ## ✔️Languages:   <p align="right"><img src="style/hello.gif" width="150px"></p>
 
-
-   
+## <img src="https://i.pinimg.com/originals/af/8a/27/af8a27bf984e189f6a6bd7a6922075c1.gif" height="40"/>Skills/Attributes
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F7F7F7&width=331&height=30&lines=Java;React;Full+Stack;JavaScript;Open+Source;Still+Learning...)](https://git.io/typing-svg)<p align="center"><img src="style/hello.gif" width="150px"></p>   
 ```js
 System.out.println("Resist Ego, Resist Eco Chambers, Choose to Grow.");
 ```
-
+</div> 
 
 <details>
   <summary>More info</summary>
@@ -20,7 +18,7 @@ System.out.println("Resist Ego, Resist Eco Chambers, Choose to Grow.");
 | <a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamehran&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mehran's github stats" /></a> | <a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamehran&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## ☢️Recent Activity
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Recent Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
