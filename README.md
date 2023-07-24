@@ -1,12 +1,11 @@
+<p align="center"><a href="https://iamehran.github.io"><img width="80%" alt="Hello, I'm Mehran. I do open source!" src="./style/cover2.png" /></a></p>
+
 <p align="center">
 <img src="style/hello.gif" width="300px">
 </p>
-<!-- <h1 align="center">Hi 👋, I'm Mehran Firdous</h1> -->
-<!-- <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-   -->
    
 ```js
-System.out.println("Mehran Firdous");
+                                                System.out.println("Mehran Firdous");
 ```
 
 <details>
