@@ -1,10 +1,12 @@
 <p align="left"><a href="https://iamehran.github.io"><img width="80%" alt="Hello, I'm Mehran. I do open source!" src="./style/gh-cover.gif" /></a>
-<p align="center">
-<img src="style/hello.gif" width="275px"></p>
 </p>
    
+ ## ✔️Languages:   <p align="right"><img src="style/hello.gif" width="150px"></p>
+
+
+   
 ```js
-System.out.println("Mehran Firdous");
+System.out.println("Resist Ego, Resist Eco Chambers, Choose to Grow.");
 ```
 
 
@@ -15,7 +17,7 @@ System.out.println("Mehran Firdous");
 
 ## ❤️‍🔥Github Stats
 
-| <a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamehran&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mehran's github stats" /></a> | <a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamehran&layout=compact&theme=radical" /></a> |
+| <a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamehran&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mehran's github stats" /></a> | <a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamehran&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## ☢️Recent Activity
