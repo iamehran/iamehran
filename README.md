@@ -1,4 +1,4 @@
-<p align="left"><a href="https://iamehran.github.io"><img width="50%" alt="Hello, I'm Mehran. I do open source!" src="./style/cover5.gif" /></a>
+<p align="left"><a href="https://iamehran.github.io"><img width="80%" alt="Hello, I'm Mehran. I do open source!" src="./style/gh-cover.gif" /></a>
 <p align="center">
 <img src="style/hello.gif" width="275px"></p>
 </p>
@@ -7,11 +7,10 @@
 System.out.println("Mehran Firdous");
 ```
 
+
 <details>
   <summary>More info</summary>
-  <h3 align="center">Here to learn lot of things.
-
-  </h3>
+  <h3 align="center">Here to learn lot of things.</h3>
 </details>
 
 ## ❤️‍🔥Github Stats
@@ -19,6 +18,7 @@ System.out.println("Mehran Firdous");
 | <a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamehran&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mehran's github stats" /></a> | <a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamehran&layout=compact&theme=radical" /></a> |
 | ------------- | ------------- |
 
+## ☢️Recent Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
