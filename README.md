@@ -15,7 +15,7 @@ System.out.println("Resist Ego, Resist Eco Chambers, Choose to Grow.");
 
 ## ❤️‍🔥Github Stats
 
-| <a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamehran&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mehran's github stats" /></a> | <a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamehran&layout=compact&theme=radical&hide_border=true" /></a> |
+| What should I put here... | <a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamehran&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Recent Activity
