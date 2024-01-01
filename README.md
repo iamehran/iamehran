@@ -1,22 +1,24 @@
-<p align="left"><a href="https://iamehran.github.io"><img width="80%" alt="Hello, I'm Mehran. I do open source!" src="./style/gh-cover.gif" /></a>
-</p>
+<p align="center"><img src="style/hello.gif" width="150px"></p>   
+ press <kbd>W</kbd> to go up, and <kbd>A</kbd> to go down.
 
-## <img src="https://i.pinimg.com/originals/af/8a/27/af8a27bf984e189f6a6bd7a6922075c1.gif" height="40"/>Skills/Attributes
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F7F7F7&width=331&height=30&lines=Java;React;Full+Stack;JavaScript;Open+Source;Still+Learning...)](https://git.io/typing-svg)<p align="center"><img src="style/hello.gif" width="150px"></p>   
 ```js
 System.out.println("Resist Ego, Resist Eco Chambers, Choose to Grow.");
 ```
 </div> 
 
+<p align="left"><a href="https://iamehran.github.io">
+</p>
+
+## <img src="https://i.pinimg.com/originals/af/8a/27/af8a27bf984e189f6a6bd7a6922075c1.gif" height="40"/>Skills/Attributes
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=F7F7F7&width=331&height=30&lines=Java;React;Full+Stack;JavaScript;Open+Source;Still+Learning...)](https://git.io/typing-svg)
 <details>
   <summary>More info</summary>
-  <h3 align="center">Here to learn lot of things.</h3>
+ <img width="90%" alt="Hello, I'm Mehran. I do open source!" src="./style/gh-cover.gif" /></a> 
 </details>
 
 ## ❤️‍🔥Github Stats
+<a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamehran&layout=compact&theme=radical&hide_border=true" /></a> 
 
-| What should I put here... | <a href="https://github.com/iamehran/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamehran&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Recent Activity
 <!--START_SECTION:activity-->
