@@ -1,5 +1,5 @@
 <p align="center"><img src="style/hello.gif" width="150px"></p>   
- press <kbd>W</kbd> to go up, and <kbd>A</kbd> to go down.
+<!--  press <kbd>W</kbd> to go up, and <kbd>A</kbd> to go down. -->
 
 ```js
 System.out.println("Resist Ego, Resist Eco Chambers, Choose to Grow.");
